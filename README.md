@@ -1,3 +1,4 @@
+
 # mars rover 
 
 The solution has been solved using command pattern.
@@ -10,6 +11,11 @@ There are 3 main components in the interface that is implemented by the rover
 Lastly I added a console app to to retrieve rovers to be deployed
 and determine their position.
 
+you can add this rovers as text onthe bin/debug folder of the console app
+5 5
+1 2 N
+LMLMLMLMM
+3 3 E
 
 Assumptions
 1. coordinates are integer
